@@ -27,7 +27,7 @@ public class PendaftaranAngotaGYM {
             System.out.print("Daftar anggota lagi? [ya/tidak]> ");
             lagi = input.nextLine();
 
-            System.out.println(); // biar ada jarak seperti contoh
+            System.out.println(); 
 
         } while (lagi.equalsIgnoreCase("ya"));
 
